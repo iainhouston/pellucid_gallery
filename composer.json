@@ -1,0 +1,17 @@
+{
+    "name": "iainhouston/juicebox_pro",
+    "extra": {
+	"installer-name": "juicebox"
+    },
+    "description": "Paid-for Juicebox library.",
+    "type": "drupal-library",
+    "license": "GPL-2.0+",
+    "keywords": ["pellucid"],
+    "homepage": "https://iainhouston.com",
+    "minimum-stability": "dev",
+    "authors": [{
+        "name": "Iain Houston",
+        "email": "iainhouston@mac.com"
+    }],
+    "require": {}
+}	
